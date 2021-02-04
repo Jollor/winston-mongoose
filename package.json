@@ -10,7 +10,9 @@
   "author": "Jan Zaloudek",
   "license": "BSD",
   "dependencies": {
-    "mongoose": "~3.6.15",
     "winston": "~0.7.3"
+  },
+  "peerDependencies": {
+    "mongoose": "*"
   }
 }
